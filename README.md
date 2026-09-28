@@ -10,11 +10,7 @@ I am a Computer Science student practicing coding challenges and building projec
 - C programming and debugging in VS Code
 - Data Structures & Algorithms learning
 - Git and GitHub workflow
-<<<<<<< HEAD
-- Problem solving on Leetcode as beginner
-=======
 - Problem solving on leetcode as beginner
->>>>>>> 6f6e6a83c2271dc4130ef738e501756de352546c
 
 ## Projects
 Here are some of the projects I’ve worked on:
