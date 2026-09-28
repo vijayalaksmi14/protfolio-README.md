@@ -20,3 +20,7 @@ Here are some of the projects I’ve worked on:
 - **LeetCode Solutions**: Solving algorithm problems to strengthen problem‑solving skills.
 - **HackerRank Practiced Problems**: Completed mandatory problem‑solving tasks for portfolio building.
 - **Line Editor**: A mini text editor built in C to practice file handling and string manipulation.
+
+## other skills
+good at event management 
+want to learn new things
